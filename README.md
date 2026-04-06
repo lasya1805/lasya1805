@@ -1,36 +1,88 @@
-#  **Lasya Matcha**  
+<!-- Header -->
+<h1 align="center">Hi, I'm Lasya Matcha 👋</h1>
+<p align="center">
+  <b>Aspiring Data Analyst & ML Enthusiast | Turning Raw Data into Real Insights</b><br/>
+  🎓 B.Tech CSE Student @ GITAM University | Targeting Data Analyst Internships & Roles in India
+</p>
 
-**Professional UI/UX Developer | Software Engineer**  
-🎓 **B.Tech CSE Student | GITAM University**  
+---
 
-## 🚀 **About Me**  
-I am a passionate **UI/UX developer** and **software engineer** dedicated to creating user-friendly, intuitive designs and developing scalable software solutions. With a strong foundation in programming and design principles, I aim to bridge the gap between aesthetics and functionality in every project I undertake.  
+## 👩‍💻 About Me
 
-## 🛠️ **Skills**  
-### **Programming Languages**  
-- C, Python, Java  
-- HTML, CSS, JavaScript  
+I'm a B.Tech CSE student passionate about **data analysis, visualization, and machine learning**.  
+I love digging into messy datasets, building dashboards that tell stories, and training models that solve real-world problems.
 
-### **Design & Development Tools**  
-- UI/UX Design: Figma  
-- Front-End Development  
-- Responsive Web Design  
+- 🔍 Currently seeking **Data Analyst internships & full-time roles**
+- 📊 Skilled in building **Power BI dashboards** and **Python-based ML pipelines**
+- 🌱 Exploring advanced **SQL analytics**, **feature engineering**, and **model optimization**
+- 📍 Based in India | Open to remote & on-site opportunities
 
-### **Core Competencies**  
-- Wireframing and Prototyping  
-- Human-Centered Design  
-- Software Development Life Cycle (SDLC)  
+---
 
-## 🌟 **What I Offer**  
-- Creating visually appealing and user-friendly interfaces  
-- Developing robust and efficient software solutions  
-- Crafting seamless user experiences tailored to client needs  
+## 🛠️ Skills & Tools
 
-## 🌱 **Currently Exploring**  
-- Advanced JavaScript frameworks (React)  
-- Enhancing proficiency in UI/UX design systems and tools  
-- Full-stack development concepts  
+### Languages & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📫 **Let’s Connect**  
-- [LinkedIn](https://www.linkedin.com/in/lasya-matcha/)  
-- [Portfolio](#) (coming soon!)  
+### Visualization & BI Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Dev & Data Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📁 Projects
+
+### 📊 [Retail Sales Analysis Dashboard](https://github.com/lasyamatcha/retail-sales-dashboard)
+> Built an interactive Power BI dashboard with KPIs, bar & pie charts using Power Query to uncover top-selling categories and customer purchasing trends.
+
+**Tools:** Power BI · Power Query · Excel  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 🔐 [Fraud Detection in Banking](https://github.com/lasyamatcha/fraud-detection-banking)
+> Performed EDA and preprocessing on banking transaction data; built and evaluated Logistic Regression & Decision Tree models achieving strong precision/recall/F1 scores.
+
+**Tools:** Python · Pandas · Scikit-learn · Jupyter  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lasyamatcha&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasyamatcha&layout=compact&theme=default&hide_border=true" width="40%"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lasya-matcha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Lasya%20Matcha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
+</p>
