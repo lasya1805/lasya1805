@@ -73,7 +73,3 @@ I love digging into messy datasets, building dashboards that tell stories, and t
 </p>
 
 ---
-
-<p align="center">
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
-</p>
