@@ -61,22 +61,13 @@ I love digging into messy datasets, building dashboards that tell stories, and t
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lasyamatcha&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasyamatcha&layout=compact&theme=default&hide_border=true" width="40%"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lasya-matcha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Lasya%20Matcha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:lmatcha@gitam.in">
     <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
