@@ -68,7 +68,7 @@ I love digging into messy datasets, building dashboards that tell stories, and t
     <img src="https://img.shields.io/badge/LinkedIn-Lasya%20Matcha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lmatcha@gitam.in">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-lmatcha@gitam.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
