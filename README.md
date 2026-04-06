@@ -43,7 +43,7 @@ I love digging into messy datasets, building dashboards that tell stories, and t
 
 ## 📁 Projects
 
-### 📊 [Retail Sales Analysis Dashboard](https://github.com/lasyamatcha/retail-sales-dashboard)
+### 📊 [Retail Sales Analysis Dashboard]()
 > Built an interactive Power BI dashboard with KPIs, bar & pie charts using Power Query to uncover top-selling categories and customer purchasing trends.
 
 **Tools:** Power BI · Power Query · Excel  
@@ -52,7 +52,7 @@ I love digging into messy datasets, building dashboards that tell stories, and t
 
 ---
 
-### 🔐 [Fraud Detection in Banking](https://github.com/lasyamatcha/fraud-detection-banking)
+### 🔐 [Fraud Detection in Banking]()
 > Performed EDA and preprocessing on banking transaction data; built and evaluated Logistic Regression & Decision Tree models achieving strong precision/recall/F1 scores.
 
 **Tools:** Python · Pandas · Scikit-learn · Jupyter  
